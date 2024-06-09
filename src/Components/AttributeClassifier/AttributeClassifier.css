@@ -1,0 +1,31 @@
+.att-cls {
+    border: 2px solid black;
+    height: 80vh;
+    width: 80vh;
+    margin: 10vh;
+}
+
+.cls-header {
+    display: flex;
+    justify-content:space-between;
+    margin: 5px 10px;
+}
+
+.container-cls {
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+
+}
+
+.num-cls {
+    border: 2px solid black;
+}
+
+.att-ls {
+    border: 2px solid black;
+}
+
+.cat-cls {
+    border: 2px solid black;
+}
+
